@@ -1,2 +1,37 @@
 #make this tool , get the ip of the targeted website/server and extract all possible websites and their infos and versions from Bgp hp and some dokrking
 and then checking for avaialable public exploits ... to than manually attack 
+
+
+#example: 
+
+./massahackre IP/Domain 
+
+IP Found:x.x.x.x
+Ports found: x.x.x.x
+Enumrating domains ... 
+Domains Found:
+
+- Http://x.x.x.c
+- Https://x.x.x.x
+- Https://x.x.x.x
+
+Enumrating Subdomains & CMS/Content:
+
+Mainwebsite:
+
+http://exampleDomainname:
+Wordpress 4.4.2
+
+Subdomains found:
+
+http://examplesub.exampleDomainname:
+Drupal 7 
+http://examplesub2.exampleDomainname:
+spip 3
+
+
+
+
+
+
+
